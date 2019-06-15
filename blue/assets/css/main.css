@@ -2904,7 +2904,12 @@ input, select, textarea {
 			.main.style2 .icon.major {
 				color: #ffffff;
 			}
-
+/* Navbar*/
+	#navbar, a {
+		text-align: center;
+		text-decoration: none !important;
+		text-decoration: underline;
+	}
 /* Header */
 
 	#header {
