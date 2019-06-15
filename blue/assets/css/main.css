@@ -2917,7 +2917,7 @@ input, select, textarea {
 		background-color: #4686a0;
 		color: rgba(255, 255, 255, 0.75);
 		background-attachment: fixed,							fixed,							fixed;
-		background-image: url("images/overlay2.png"), url("images/overlay3.svg"), linear-gradient(45deg, #46c0d2 5%, #2d60ba 30%, #8147bd);
+		background-image: url("images/overlay2.png"), url("images/overlay3.svg"), url("../../images/background.jpg");
 		background-position: top left,						center center,					center center;
 		background-size: auto,							cover,							cover;
 		overflow: hidden;
@@ -3109,11 +3109,11 @@ input, select, textarea {
 /* Footer */
 
 	#footer {
-		padding: 6em 0 6em 0 ;
-		background-color: #4686a0;
-		color: rgba(255, 255, 255, 0.75);
+		padding: 1em 0 1em 0 ;
+		background-color: rgba(255, 255, 255, 0.75);
+		color: 
 		background-attachment: fixed,							fixed,							fixed;
-		background-image: url("images/overlay2.png"), url("images/overlay4.svg"), linear-gradient(45deg, #8147bd, #2d60ba 50%, #46c0d2 95%);
+		background-image: url("images/overlay2.png"), url("images/overlay4.svg"),
 		background-position: top left,						center center,					center center;
 		background-size: auto,							cover,							cover;
 		text-align: center;
