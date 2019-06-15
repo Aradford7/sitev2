@@ -2287,7 +2287,7 @@ input, select, textarea {
 			line-height: inherit;
 		}
 
-		.icon.solid:before {
+		.icon.brands:before {
 			font-weight: 900 !important;
 		}
 
@@ -2318,10 +2318,13 @@ input, select, textarea {
 		.icon.style6:before {
 			color: #b76ff7;
 		}
+		.icon.stylegit:before{
+			 color:black;
+		}
 
-		.icon.major {
+		.icon.brands {
 			text-decoration: none;
-			color: #555;
+			color: white;
 			cursor: default;
 			display: inline-block;
 			margin: 0 0 1.5em 0;
@@ -2340,8 +2343,8 @@ input, select, textarea {
 				font-weight: 400;
 			}
 
-			.icon.major:before {
-				font-size: 4em;
+			.icon.brands:before {
+				font-size: 2em;
 				line-height: 1em;
 			}
 
